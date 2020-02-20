@@ -8,3 +8,6 @@ Cava Indonesia is a Website that was built for Olivia (Olimpiade Mahasiswa Vokas
 
 ## For Demo
 https://ahmdmau.github.io/
+
+## License
+Cava Indonesia is available under the MIT license. See the LICENSE file for more info.
